@@ -37,6 +37,7 @@ The following points enumerate the results of the different Machine Learning mod
 
  The image below shows a snapshot of the Naive Random Oversampling method.
 
+<img src ="images/naive_random.png"> 
 
 2. **SMOTE Oversampling**
  - Of a total of 101 high risk credit card applications, 62 were predicted correctly (True Positive) while 39 were predicted incorrectly (False Negative)
@@ -47,6 +48,7 @@ The following points enumerate the results of the different Machine Learning mod
 
  The image below shows a snapshot of the SMOTE Oversampling method.
 
+<img src ="images/smote_oversampling.png">
 
 3. **Cluster Centroid - Undersampling**
  - Of a total of 101 high risk credit card applications, 70 were predicted correctly (True Positive) while 31 were predicted incorrectly (False Negative)
@@ -57,6 +59,7 @@ The following points enumerate the results of the different Machine Learning mod
 
  The image below shows a snapshot of the Cluster Centroid Undersampling method.
 
+<img src ="images/cluster_centroids.png">
 
 4. **SMOTEENN - Combination (Over & Under)**
  - Of a total of 101 high risk credit card applications, 75 were predicted correctly (True Positive) while 26 were predicted incorrectly (False Negative)
@@ -67,6 +70,7 @@ The following points enumerate the results of the different Machine Learning mod
 
  The image below shows a snapshot of the SMOTEENN combination method.
 
+<img src ="images/smoteenn_combination.png">
 
 5. **Balanced Random Forest Classifier**
  - Of a total of 101 high risk credit card applications, 71 were predicted correctly (True Positive) while 30 were predicted incorrectly (False Negative)
@@ -77,6 +81,7 @@ The following points enumerate the results of the different Machine Learning mod
 
  The image below shows a snapshot of the Balanced Random Forest Classifier.
 
+<img src ="images/balanced_random_forrest.png">
 
 6. **Easy Ensemble AdaBoost Classifier**
  - Of a total of 101 high risk credit card applications, 93 were predicted correctly (True Positive) while 8 were predicted incorrectly (False Negative)
@@ -87,6 +92,7 @@ The following points enumerate the results of the different Machine Learning mod
 
  The image below shows a snapshot of the Easy Ensemble AdaBoost Classifier.
 
+<img src ="images/easy_ensemble_classifier.png">
 
 
 ### Summary
